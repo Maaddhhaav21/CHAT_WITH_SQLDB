@@ -28,4 +28,4 @@ tiktoken
 unstructured
 lxml
 
-sqlite3
+
